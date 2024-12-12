@@ -1,2 +1,2 @@
-# huffonera-wp
-Wordpress template for Huffonera work
+# huff-wp
+Wordpress template for client work
